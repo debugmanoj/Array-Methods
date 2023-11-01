@@ -1,4 +1,4 @@
-This day 6 task contains
+This day 7 task contains
 
 Solving problems using array functions on rest countries data (https://restcountries.com/v3.1/all).
 Get all the countries from Asia continent /region using Filter function
