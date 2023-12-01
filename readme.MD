@@ -1,14 +1,14 @@
-This day 7 task contains
+# Array methods 
 
-Solving problems using array functions on rest countries data (https://restcountries.com/v3.1/all).
+* This repository contain using public API rest countries to retrieve using MRF ( Map , Reduce , Filter )
 
-1.Get all the countries from Asia continent /region using Filter function
+* Consoled countries from Asia Continent using filter 
 
-2.Get all the countries with a population of less than 2 lakhs using Filter function
+* Consoled countries population of less than 2 lakhs using filter functon
 
-3.Print the following details name, capital, flag, using forEach function
+* Consoled details, name , capital , flag using forEach function
 
-4.Print the total population of countries using reduce function
+* Consoled total population of countries using reduce function
 
-5.Print the country that uses US dollars as currency.
+
 
